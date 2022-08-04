@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Cool!
+
+QiXi_Festival()
+{
+    boyfriend = new BoyFriend;
+}
